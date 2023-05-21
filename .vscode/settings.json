@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+    "window.zoomLevel": 1.4,
+    "editor.fontFamily": "fira code",
+    "editor.fontLigatures": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
